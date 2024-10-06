@@ -1,0 +1,5 @@
+1;Producto1;593,63
+2;Producto2;286,49
+3;Producto3;846,50
+4;Producto4;664,73
+5;Producto5;481,17

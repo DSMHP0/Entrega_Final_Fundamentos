@@ -1,0 +1,10 @@
+# Conclusiones del Proyecto de Gestión de Ventas
+
+1. **Lo aprendido durante el desarrollo del proyecto**:
+   Durante el desarrollo de este proyecto, aprendí a trabajar con archivos de texto, procesar datos con colecciones de Java, y a utilizar técnicas de generación de reportes para mostrar la información de manera ordenada y útil. También aprendí a manejar errores y excepciones para asegurar el correcto funcionamiento del programa.
+
+2. **Aplicaciones profesionales**:
+   Las destrezas adquiridas son aplicables a cualquier proyecto que requiera procesamiento de datos, análisis de información, y generación de reportes. También reforcé conocimientos sobre cómo estructurar correctamente un programa y aplicar buenas prácticas de codificación.
+
+3. **Dificultades presentadas**:
+   Una de las principales dificultades fue manejar correctamente las rutas de los archivos y asegurar que el programa los leyera correctamente. También fue un reto procesar los datos y generar los reportes de manera eficiente.
